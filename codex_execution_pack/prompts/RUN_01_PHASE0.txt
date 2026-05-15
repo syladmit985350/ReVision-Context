@@ -1,0 +1,1 @@
+Read AGENTS.md and execute codex_tasks/TASK_01_PHASE0_RENDER_MAPPING_SYNTHETIC.md. Do not implement later phases.

@@ -1,0 +1,3 @@
+{"example_id": "numeric_qa-0000", "source_line_index": 0, "source_text": "ops report 000", "first_page_number": 1, "first_line_number": 1, "placements": [{"page_number": 1, "line_number": 1, "segment_index": 0, "text": "ops report 000"}]}
+{"example_id": "numeric_qa-0000", "source_line_index": 1, "source_text": "batch total: 102 units", "first_page_number": 1, "first_line_number": 2, "placements": [{"page_number": 1, "line_number": 2, "segment_index": 0, "text": "batch total: 102 units"}]}
+{"example_id": "numeric_qa-0000", "source_line_index": 2, "source_text": "audit code: N-0000", "first_page_number": 1, "first_line_number": 3, "placements": [{"page_number": 1, "line_number": 3, "segment_index": 0, "text": "audit code: N-0000"}]}

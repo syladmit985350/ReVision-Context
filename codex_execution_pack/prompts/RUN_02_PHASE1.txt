@@ -1,0 +1,1 @@
+Read AGENTS.md and execute codex_tasks/TASK_02_PHASE1_HEURISTIC_HYBRID.md. Do not implement trainable allocator yet.

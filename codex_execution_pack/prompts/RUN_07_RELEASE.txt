@@ -1,0 +1,1 @@
+Read AGENTS.md and execute codex_tasks/TASK_07_RELEASE_AND_PAPER_ASSETS.md. Label all results as smoke-test outputs.

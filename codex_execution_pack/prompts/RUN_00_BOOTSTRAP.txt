@@ -1,0 +1,1 @@
+Read AGENTS.md and execute codex_tasks/TASK_00_PROJECT_BOOTSTRAP.md. Stop when the Done criteria are satisfied.

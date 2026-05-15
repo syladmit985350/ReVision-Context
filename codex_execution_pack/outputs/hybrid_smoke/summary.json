@@ -1,0 +1,39 @@
+{
+  "num_examples": 10,
+  "num_correct": 10,
+  "accuracy": 1.0,
+  "anchor_tokens": 118,
+  "reread_tokens": 0,
+  "visual_tokens_est": 2560,
+  "total_tokens_est": 2678,
+  "render_diagnostics": {
+    "num_examples_rendered": 10,
+    "num_pages": 10,
+    "average_characters_per_page": 68.6,
+    "page_line_mapping_coverage": 1.0,
+    "image_paths_written": [
+      "outputs/hybrid_smoke/rendered/numeric_qa-0000/page_0001.png",
+      "outputs/hybrid_smoke/rendered/date_qa-0001/page_0001.png",
+      "outputs/hybrid_smoke/rendered/table_cell_qa-0002/page_0001.png",
+      "outputs/hybrid_smoke/rendered/code_symbol_qa-0003/page_0001.png",
+      "outputs/hybrid_smoke/rendered/url_path_config_qa-0004/page_0001.png",
+      "outputs/hybrid_smoke/rendered/formula_math_symbol_qa-0005/page_0001.png",
+      "outputs/hybrid_smoke/rendered/numeric_qa-0006/page_0001.png",
+      "outputs/hybrid_smoke/rendered/date_qa-0007/page_0001.png",
+      "outputs/hybrid_smoke/rendered/table_cell_qa-0008/page_0001.png",
+      "outputs/hybrid_smoke/rendered/code_symbol_qa-0009/page_0001.png"
+    ],
+    "mapping_paths": [
+      "outputs/hybrid_smoke/rendered/numeric_qa-0000/mapping.jsonl",
+      "outputs/hybrid_smoke/rendered/date_qa-0001/mapping.jsonl",
+      "outputs/hybrid_smoke/rendered/table_cell_qa-0002/mapping.jsonl",
+      "outputs/hybrid_smoke/rendered/code_symbol_qa-0003/mapping.jsonl",
+      "outputs/hybrid_smoke/rendered/url_path_config_qa-0004/mapping.jsonl",
+      "outputs/hybrid_smoke/rendered/formula_math_symbol_qa-0005/mapping.jsonl",
+      "outputs/hybrid_smoke/rendered/numeric_qa-0006/mapping.jsonl",
+      "outputs/hybrid_smoke/rendered/date_qa-0007/mapping.jsonl",
+      "outputs/hybrid_smoke/rendered/table_cell_qa-0008/mapping.jsonl",
+      "outputs/hybrid_smoke/rendered/code_symbol_qa-0009/mapping.jsonl"
+    ]
+  }
+}

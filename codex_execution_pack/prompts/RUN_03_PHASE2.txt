@@ -1,0 +1,1 @@
+Read AGENTS.md and execute codex_tasks/TASK_03_PHASE2_FIDBENCH_EVALUATOR.md. Keep it CPU-only and smoke-testable.

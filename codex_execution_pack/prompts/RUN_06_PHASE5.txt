@@ -1,0 +1,1 @@
+Read AGENTS.md and execute codex_tasks/TASK_06_PHASE5_BASELINES_EXPERIMENTS.md. Missing third-party baselines must fail gracefully.

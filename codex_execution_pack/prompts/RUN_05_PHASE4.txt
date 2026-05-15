@@ -1,0 +1,1 @@
+Read AGENTS.md and execute codex_tasks/TASK_05_PHASE4_ALIGNMENT_RISK.md. Do not download model weights.

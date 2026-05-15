@@ -1,0 +1,16 @@
+{
+  "num_examples_rendered": 3,
+  "num_pages": 3,
+  "average_characters_per_page": 61.33,
+  "page_line_mapping_coverage": 1.0,
+  "image_paths_written": [
+    "outputs/render_smoke/examples/numeric_qa-0000/page_0001.png",
+    "outputs/render_smoke/examples/date_qa-0001/page_0001.png",
+    "outputs/render_smoke/examples/table_cell_qa-0002/page_0001.png"
+  ],
+  "mapping_paths": [
+    "outputs/render_smoke/examples/numeric_qa-0000/mapping.jsonl",
+    "outputs/render_smoke/examples/date_qa-0001/mapping.jsonl",
+    "outputs/render_smoke/examples/table_cell_qa-0002/mapping.jsonl"
+  ]
+}
